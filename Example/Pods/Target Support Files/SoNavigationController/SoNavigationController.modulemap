@@ -1,0 +1,6 @@
+framework module SoNavigationController {
+  umbrella header "SoNavigationController-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SoNavigationController",
+  "version": "0.1.0",
+  "summary": "A short description of SoNavigationController.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/soSeven/SoNavigationController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "soSeven": "1521224526@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/soSeven/SoNavigationController.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SoNavigationController/Classes/**/*"
+}

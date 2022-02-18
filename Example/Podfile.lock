@@ -1,0 +1,16 @@
+PODS:
+  - SoNavigationController (0.1.0)
+
+DEPENDENCIES:
+  - SoNavigationController (from `../`)
+
+EXTERNAL SOURCES:
+  SoNavigationController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SoNavigationController: d2a0bda0ba9b74db27e35786e82d6befd6bfd459
+
+PODFILE CHECKSUM: cb25d0e9030c466c682dd21daac8250dcfa9acd0
+
+COCOAPODS: 1.11.2
