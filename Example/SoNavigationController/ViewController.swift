@@ -7,11 +7,15 @@
 //
 
 import UIKit
+import SoNavigationController
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        so.barConfiguration.backgroundColor = .white
+        so.barConfiguration.backgroundImage = ImageIdentifier(image: UIImage(), identifier: "")
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
